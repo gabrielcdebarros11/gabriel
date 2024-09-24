@@ -7,8 +7,12 @@ p{
 h1{
  font-style: italic;
 }
-h2{font-style: oblique;}
+h2{font-style: oblique;
+}
 .futsal{
 color: rgb(135, 6, 255);
 font-size: ;
+}
+.img{ 
+  width: 100% ;
 }
